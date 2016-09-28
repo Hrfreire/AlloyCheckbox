@@ -1,3 +1,12 @@
 ".checkbox": {
     style: Ti.UI.iPhone.SystemButtonStyle.PLAIN
 }
+
+"#checkbox":{
+	backgroundColor: "#FFF",
+	borderRadius: 5,
+	borderWidth: 2,
+	borderColor: '#B7B7B7',
+	width: '20dp',
+	height: '20dp'
+}
